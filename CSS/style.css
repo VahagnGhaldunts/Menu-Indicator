@@ -89,14 +89,13 @@ body {
     top: -50%;
     width: 70px;
     height: 70px;
-    background: #29fd53;
+    background: #29fde1;
     border-radius: 50%;
     border: 6px solid var(--clr);
     transition: 0.5s;
 }
 
 .indicator::before {
-    content: '';
     position: absolute;
     top: 50%;
     left: -22px;
